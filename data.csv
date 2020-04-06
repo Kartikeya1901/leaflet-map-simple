@@ -1,4 +1,4 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Bangalore city,"300 Summit St, Hartford CT 06106",12.9716,77.5946,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
+Chennai City,950 Main St Hartford CT 06103,13.0827, 80.2707,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
+Delhi,"200 Bloomfield Ave, West Hartford CT 06117",28.7041, 77.1025,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
